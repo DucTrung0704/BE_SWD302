@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuring_Service_Platform", "Nuring_Service_Platform\Nuring_Service_Platform.csproj", "{3DBF7953-F21C-4191-A5F9-C913ECFF56A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{9E28E26E-7E40-42CE-B544-7EC92A4F17E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{03146C55-0469-4B47-B70D-079D2A0F2A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBF7953-F21C-4191-A5F9-C913ECFF56A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBF7953-F21C-4191-A5F9-C913ECFF56A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBF7953-F21C-4191-A5F9-C913ECFF56A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBF7953-F21C-4191-A5F9-C913ECFF56A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E28E26E-7E40-42CE-B544-7EC92A4F17E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E28E26E-7E40-42CE-B544-7EC92A4F17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E28E26E-7E40-42CE-B544-7EC92A4F17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E28E26E-7E40-42CE-B544-7EC92A4F17E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03146C55-0469-4B47-B70D-079D2A0F2A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03146C55-0469-4B47-B70D-079D2A0F2A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03146C55-0469-4B47-B70D-079D2A0F2A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03146C55-0469-4B47-B70D-079D2A0F2A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
