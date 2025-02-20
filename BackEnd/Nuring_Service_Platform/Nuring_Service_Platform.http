@@ -1,0 +1,6 @@
+@Nuring_Service_Platform_HostAddress = http://localhost:5009
+
+GET {{Nuring_Service_Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
